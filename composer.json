@@ -1,0 +1,12 @@
+{
+  "name": "cleanogr/328/food",
+  "authors": [
+    {
+      "name": "Celine Leano",
+      "email": "cemleano@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
